@@ -117,10 +117,10 @@ Example API endpoints provided by this project:
 For questions or comments about this project, feel free to reach out to any of us:
 
 - **Wendel Rey Salaum**: [wendelreysalaum@gmail.com](mailto:wendelreysalaum@gmail.com)  
-  GitHub: [yourusername](https://github.com/yourusername)
+  GitHub: [yourusername](https://github.com/yourusernam)
 
-- **Member 2**: [member3@example.com](mailto:member2@example.com)  
-  GitHub: [member2username](https://github.com/member2username)
+- **Member 2**: [ybiernasmarc@gmail.com](mailto:ybiernasmarc@gmail.com)  
+  GitHub: [Marcooooo0](https://github.com/Marcooooo0)
 
 - **Member 3**: [member3@example.com](mailto:member3@example.com)  
   GitHub: [member3username](https://github.com/member3username)
