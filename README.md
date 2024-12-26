@@ -41,12 +41,12 @@ Ensure you have Python installed on your system.
 ### Navigate to the server-side directory:
     ```sh
     cd server_side
-    ```
+    
 
 ### Activate virtual environment:
     ```sh
     venv\Scripts\activate
-    ```
+    
 
 ### Install dependencies:
     ```sh
