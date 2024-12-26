@@ -1,6 +1,5 @@
-# Project Name
+# Secure Messaging App Using Django with AES Encryption
 
-![License](https://img.shields.io/github/license/yourusername/your-repo)
 
 ## Table of Contents
 - [Introduction](#introduction)
