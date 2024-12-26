@@ -1,0 +1,5 @@
+djangorestframework
+cryptography
+requests
+django-cors-headers
+environs
