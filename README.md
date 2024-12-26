@@ -1,95 +1,95 @@
-# Secure Messaging App Using Django with AES Encryption
+# 🔒 Secure Messaging App Using Django with AES Encryption
 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contact](#contact)
+## 📋 Table of Contents
+- [📖 Introduction](#introduction)
+- [✨ Features](#features)
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🔗 API Endpoints](#api-endpoints)
+- [📬 Contact](#contact)
 
-## Introduction
+## 📖 Introduction
 Welcome to the **Secure Messaging App**!  
 This project demonstrates secure communication by employing encryption and decryption of messages. Built with Django and Django REST Framework (DRF), it offers secure APIs, token-based authorization, and user authentication to ensure the confidentiality of messages.
 
-## Features
-- **Secure Communication**: Messages are encrypted and decrypted for safe transmission using AES.
-- **Token-Based Authorization**: Ensures secure access to API endpoints.
-- **User Authentication**: Provides login and secure user management.
-- **Modular Design**: Divided into server-side and client-side applications for scalability.
+## ✨ Features
+- **🔐 Secure Communication**: Messages are encrypted and decrypted for safe transmission using AES.
+- **🔑 Token-Based Authorization**: Ensures secure access to API endpoints.
+- **👤 User Authentication**: Provides login and secure user management.
+- **🛠️ Modular Design**: Divided into server-side and client-side applications for scalability.
 
-## The project consists of two applications:
-1. **server_side**: Provides API endpoints for user registration, login, sending messages, and viewing inbox messages. Also provides admin dashboard to manage users and messages.
-2. **client_side**: Interacts with the `server_side` application by making API calls to perform the aforementioned actions.
+## 🧩 The project consists of two applications:
+1. **🖥️ Server-Side**: Provides API endpoints for user registration, login, sending messages, and viewing inbox messages. Also includes an admin dashboard to manage users and messages.
+2. **📱 Client-Side**: Interacts with the `server_side` application by making API calls to perform the aforementioned actions.
 
 
-## Installation
+## ⚙️ Installation
 To get started with this project, follow these steps:
 
-### Prerequisites 
+### 📌 Prerequisites 
 Ensure you have Python installed on your system.
 
-### Clone the repository:
+### 📂 Clone the repository:
     ```sh
     https://github.com/deletedgituser/IT120_FINAL_REQUIREMENT.git
     cd IT120_FINAL_REQUIREMENT
     ```
 
-## Running the server-side application:
+## 🚀 Running the server-side application:
 
-### Navigate to the server-side directory:
+### 📁 Navigate to the server-side directory:
     ```sh
     cd server_side
     ```
 
-### Activate virtual environment:
+### ▶️ Activate virtual environment:
     ```sh
     venv\Scripts\activate
     ```
 
-### Install dependencies:
+### 📦 Install dependencies:
     ```sh
     pip install -r requirements.txt
     ```
 
-### Start server:
+### 🖥️ Start the server:
     ```sh
     python manage.py runserver
     ```
 
 
-## Running the client-side application:
+## 🚀 Running the client-side application:
 
-### Navigate to the server-side directory:
+### 📁 Navigate to the server-side directory:
     ```sh
     cd client_side
     ```
 
-### Activate virtual environment:
+### ▶️ Activate virtual environment:
     ```sh
     venv\Scripts\activate
     ```
 
-### Install dependencies:
+### 📦 Install dependencies:
     ```sh
     pip install -r requirements.txt
     ```
 
-### Start server:
+### 🖥️ Start server:
     ```sh
     python manage.py runserver 8001
     ```
 
 
-## Access the Application:
+## 🌐 Access the Application:
 ### Open the client application in the browser at:
     ```sh
     http://127.0.0.1:8001/register/
     ```
 
 
-## API Endpoints
+## 🔗 API Endpoints
 Example API endpoints provided by this project:
 
 - **Register a New User**  
